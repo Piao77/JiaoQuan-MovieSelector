@@ -1,0 +1,90 @@
+.msForm{
+	margin-top: 55px;
+	margin-left: 50px;
+	width: 300px;
+}
+.msTitle{
+	margin-bottom: 20px;
+}
+.msBody{
+	
+}
+.neirong{
+	margin-top: 0px;
+}
+.msShow{
+	
+}
+table{
+	float: right;
+	margin-right: 50px;
+	width: ;
+	text-align: center;
+}
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+table.gridtable tr {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+span.msSpan{
+	margin-right: 350px;
+}
+div.msSpan1{
+	width: 100px;
+	float: left;
+	text-align: center;
+}
+div.msSpan2{
+	width: 590px;
+	float: left;
+	text-align: center;
+}
+div.msSpan3{
+	width: 150px;
+	float: right;
+	text-align: center;
+}
+div.mctitle{
+	margin-top: 10px;
+	padding-top: 7px;
+	font-size: 20px;
+	letter-spacing: 3px;
+	width: 365px;
+	height: 45px;
+	float: left; 
+	text-align: center;
+}
+.mcWords{
+	letter-spacing: 4px;
+	line-height: 40px;
+	font-size: 15px;
+}
+.bottonLogin{
+	margin-top: 20px;
+	margin-left: -5px;
+	border-radius: 6px;
+}

@@ -1,0 +1,27 @@
+div.msSpan4{
+	width: 150px;
+	float: left;
+	text-align: center;
+}
+span.msSpan{
+	margin-right: 350px;
+}
+div.msSpan1{
+	width: 100px;
+	float: left;
+	text-align: center;
+}
+div.msSpan2{
+	width: 400px;
+	float: left;
+	text-align: center;
+}
+div.msSpan3{
+	width: 120px;
+	float: left;
+	text-align: center;
+}
+a:hover{
+	color: #222222;
+	text-decoration: none;
+}

@@ -1,0 +1,250 @@
+.glyphicon-film{
+	float: left;
+	color: #FFFFFF;
+	padding-top: 14px;
+	font-size: 20px;
+	padding-right: 13px;
+}
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+.navbar-brand{
+	color: #FFFFFF;
+	font-size: 17px;
+	letter-spacing: 3.5px;
+}
+.backtomain{
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 3px;
+}
+.navbar{
+	padding-bottom: 0px;
+}
+.breadcrumb{
+	margin: 0px;
+}
+.breadcrumbA{
+	color: #222;
+	letter-spacing: 4px;
+}
+.breadcrumbA:hover{
+	color: #3A768F;
+}
+/* 这里是缩略图部分 */
+.thumbnail{
+	float: left;
+	margin: 24px auto 45px 31px;
+	padding: 0px;
+	width: 14%;
+}
+.number1{
+	margin-left:0px; 
+	float: left;
+	padding: 0px;
+	width: 14%;
+}
+/* 电影名悬停格式 */
+.aName{
+	color: #222222;
+	text-align: left;
+}
+.aName:hover{
+	text-decoration: none;
+	color: #55aa7f;
+}
+.caption{
+	font-size: 5px;
+	margin: 0px;
+	text-align: left;
+}
+h5{
+	margin-top: 5px;
+	margin-bottom: 6px;
+}
+.row{
+	padding: 0px;
+}
+
+.form-control{
+	background-color: #ffffff;
+} 
+.navbar{
+	font-size: 15px;
+	border: 0px solid #FFFFFF;
+	color: #ff00ff;
+	margin-bottom: 0px;
+}
+.navbar-inverse{
+	background-color: #222;
+}
+.navbarClass{
+	background-color: #eeeeee;
+	
+}
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+	letter-spacing:2px;
+	/* .navbar-inverse .navbar-brand中间用空格隔开，
+	表示后代选择器，选择的是.navbar-inverse内的.navbar-brand */
+	/* .navbar-inverse.navbar-brand 则是在一个元素上，
+	这个元素包括这两个类才会有效果。 */
+}
+/* 这里是缩略图部分 */
+
+.thumbnail{
+	float: left;
+	margin: 24px auto 60px 30px;
+
+	width: 14%;
+}
+.number1{
+	margin-left:0px; 
+	float: left;
+	padding: 0px;
+	width: 14%;
+}
+/* 电影名悬停格式 */
+.aName{
+	color: #222222;
+	text-align: left;
+}
+.aName:hover{
+	text-decoration: none;
+	color: #55aa7f;
+}
+.caption{
+	font-size: 5px;
+	margin: 0px;
+	text-align: left;
+}
+h5{
+	margin-top: 5px;
+	margin-bottom: 6px;
+}
+.navbar-default .navbar-brand {
+    color: #ffffff;
+}
+.pcolor{
+	margin: 13px 300px 0px 10px;
+	color: #222;
+	font-size: 15px;
+	letter-spacing:3px;
+}
+.pcolor2{
+	margin: 13px 10px 10px 10px;
+	color: #ffffff;
+	font-size: 15px;
+	letter-spacing:3px;
+	float: right;
+}
+
+.phbcolor{
+	margin: 13px 10px 10px 10px;
+	color: #ffffff;
+	font-size: 17px;
+	letter-spacing:3px;
+}
+.leadd .navbar-header{
+	padding-left: 75px;
+}
+.glyphicon-film{
+	color: #FFFFFF;
+	float: left;
+	padding: 16px 16px 0px 5px;
+	font-size: 18px;
+}
+/* 这是左侧小标题靠边 */
+/* .col-sm-9 > .row {
+	margin-left: -25px;
+} */
+.navbar-right{
+	color: #000000;
+}
+.list-group-item.active{
+	letter-spacing:3px;
+	text-align:center;
+	background-color: #222;
+	border-color:#222;
+}
+.list-group-item.active:hover{
+	background-color: #222222;
+	border-color: #222;
+}
+.whatt{
+	height: 50px;
+	color: #FFFFFF;
+	font-size: 17px;
+	letter-spacing:3px;
+	background-color: #000000;
+}
+.list-group-item{
+	letter-spacing:3px;
+}
+/* 修复响应式 */
+#firstimg{
+	background:url(../img/p2572166063.jpg);
+	height: 180px;
+	width: 120px;
+	}
+.thumbnail{
+	height:180px;
+	width:120px;
+}
+.panel{
+	width: auto;
+	height: 261PX;
+}
+/* 留言框 */
+.input-group {
+	height: 150px;
+	width: ;
+	display: block;
+}
+/* 留言输入框 */
+.lastForm{
+	height: 100px;
+	width: 150px;
+}
+/* 对留言框的响应式定义 */
+@media screen and (min-width:768px) and (max-device-width:1200px){
+	.lastForm{
+		height: 100px;
+		width: 50px;
+	}
+	}
+}
+.btn-default{
+	float: right;
+}
+h6{
+	text-align: center;
+}
+.btns{
+	font-weight:bold;
+	display: inline-block;
+	width: 70px;
+	height: 70px;
+	background: #222;
+	font-size: 14px;
+	text-align: center;
+	padding-top: 4px;
+	color: white;
+	border-radius: 10px;
+	opacity: 0.3;
+}
+a:hover{
+	color:#FFFFFF
+	}
+/* a:visited{
+	color: #fff;
+} */
+/* 底部广告图*/
+ #advertisement #adimg{
+	width: 1100px;
+	height: 100px;
+}
+footer{
+	background-color: #222;
+	color: #FFFFFF;
+}

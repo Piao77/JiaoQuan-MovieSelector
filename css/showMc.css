@@ -1,0 +1,23 @@
+div.msSpan1{
+	width: 200px;
+}
+div.msSpan2{
+	width: 400px;
+}
+div.msSpan3{
+	width: 200px;
+	float: right;
+}
+div.msSpan4{
+	width: 100px;
+	float: right;
+}
+.gridtable{
+	border: #222222 solid 0.5px;
+	border-radius: 5px;
+}
+h3{
+	margin-top: 25px;
+	margin-left: 50px;
+	margin-bottom: 25px;
+}

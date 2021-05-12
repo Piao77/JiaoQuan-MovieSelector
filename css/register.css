@@ -1,0 +1,23 @@
+p{
+	color: #FFFFFF;
+	font-size: 15px;
+	text-align: center;
+	padding: 10px;
+	background-color: #222222;
+	border-radius: 10px;
+}
+form{
+	text-align: center;
+	padding: 220px 0px 199px 0px;
+}
+input{
+	padding: 5px;
+	margin: 10px;
+}
+body{
+	background-image: url(../img/1b.jpg);
+	background-repeat: repeat;
+}
+.bottonLogin{
+	text-align: center;
+}
